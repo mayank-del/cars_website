@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import {Button} from './Button';
 import Aos from "aos";
 import "aos/dist/aos.css";
-import { useEffect } from 'react/cjs/react.development';
+import { useEffect } from 'react';
 
 const Section = styled.section`
     width:100%;
