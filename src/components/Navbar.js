@@ -71,7 +71,7 @@ const Navbar = ({toggle}) => {
     
     return (
         <Nav>
-            <Logo to="/">ELIXR</Logo>
+            <Logo to="/">43_MAYANK</Logo>
             <MenuBars onClick={toggle}/>
             <NavMenu>             
                 {menuData.map((item,index)=>(
