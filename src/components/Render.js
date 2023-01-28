@@ -7,7 +7,7 @@ const Render = () => {
             <Router>
             <Switch>
 
-                <Route exact path="/ontact" >
+                <Route exact path="/contact" >
                     <Contact/>
                 </Route>
                 
